@@ -1,0 +1,77 @@
+{
+    "code": [
+        1000
+    ],
+    "data": {
+        "checkin": "2020-01-01",
+        "checkout": "2020-01-02",
+        "hotels": [
+            {
+                "id": "12587650",
+                "name": "Crown Motel",
+                "image": "https://images.trvl-media.com/hotels/13000000/12590000/12587700/12587650/a986fa7e_t.jpg"
+            },
+            {
+                "id": "890926",
+                "name": "Jockey Resort Suites Center Strip",
+                "image": "https://images.trvl-media.com/hotels/1000000/900000/891000/890926/6f5a7e41_t.jpg"
+            },
+            {
+                "id": "10269684",
+                "name": "Shalimar Hotel of Las Vegas",
+                "image": "https://images.trvl-media.com/hotels/11000000/10270000/10269700/10269684/3bc40c5f_t.jpg"
+            },
+            {
+                "id": "991939",
+                "name": "Fairfield Inn and Suites by Marriott Las Vegas South",
+                "image": "https://images.trvl-media.com/hotels/1000000/1000000/992000/991939/a366e001_t.jpg"
+            },
+            {
+                "id": "2252716",
+                "name": "SpringHill Suites by Marriott Las Vegas Convention Center",
+                "image": "https://images.trvl-media.com/hotels/3000000/2260000/2252800/2252716/c7eb1644_t.jpg"
+            },
+            {
+                "id": "17493276",
+                "name": "Serene Vegas",
+                "image": "https://images.trvl-media.com/hotels/18000000/17500000/17493300/17493276/6c205725_t.jpg"
+            },
+            {
+                "id": "43319",
+                "name": "Sam's Town Hotel & Gambling Hall",
+                "image": "https://images.trvl-media.com/hotels/1000000/50000/43400/43319/18608227_t.jpg"
+            },
+            {
+                "id": "9623",
+                "name": "Aviation Inn",
+                "image": "https://images.trvl-media.com/hotels/1000000/10000/9700/9623/bed7edeb_t.jpg"
+            },
+            {
+                "id": "5692398",
+                "name": "Howard Johnson by Wyndham Las Vegas near the Strip",
+                "image": "https://images.trvl-media.com/hotels/6000000/5700000/5692400/5692398/0deb9eb6_t.jpg"
+            },
+            {
+                "id": "802737",
+                "name": "Westgate Flamingo Bay Resort",
+                "image": "https://images.trvl-media.com/hotels/1000000/810000/802800/802737/27123e3e_t.jpg"
+            },
+            {
+                "id": "158973",
+                "name": "La Quinta Inn & Suites by Wyndham Las Vegas Summerlin Tech",
+                "image": "https://images.trvl-media.com/hotels/1000000/160000/159000/158973/bc73be67_t.jpg"
+            },
+            {
+                "id": "41247",
+                "name": "Golden Gate Hotel and Casino",
+                "image": "https://images.trvl-media.com/hotels/1000000/50000/41300/41247/0f58fcba_t.jpg"
+            },
+            {
+                "id": "529239",
+                "name": "Suncoast Hotel and Casino",
+                "image": "https://images.trvl-media.com/hotels/1000000/530000/529300/529239/980145ec_t.jpg"
+            }
+        ]
+    },
+    "msg": "success"
+}

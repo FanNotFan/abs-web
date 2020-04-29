@@ -1,0 +1,55 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/API/search",
+			"style": {
+				"navigationBarTitleText": "Hotel Search"
+			}
+		},
+		{
+			"path": "pages/API/hotel_list",
+			"style": {
+				"navigationBarTitleText": "Hotel List"
+			}
+		},
+		{
+			"path": "pages/API/build_first",
+			"style": {
+				"navigationBarTitleText": "Build your room"
+			}
+		},
+		{
+			"path": "pages/API/build_second",
+			"style": {
+				"navigationBarTitleText": "Build your room"
+			}
+		},
+		{
+			"path": "pages/API/build_thrid",
+			"style": {
+				"navigationBarTitleText": "Build your room"
+			}
+		},
+		{
+			"path": "pages/API/reserve",
+			"style": {
+				"navigationBarTitleText": "Reserve"
+			}
+		},
+		{
+			"path": "pages/API/pay_success",
+			"style": {
+				"navigationBarTitleText": "Pay Success"
+			}
+		}
+	],
+	"globalStyle": {
+		// #ifdef H5
+		"navigationStyle": "custom",
+		// #endif
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,7 @@
+unpackage/
+*DS_Store
+*.DS_Store
+*gitignore~
+.gitignore~
+.gitignore~
+*node_modules/

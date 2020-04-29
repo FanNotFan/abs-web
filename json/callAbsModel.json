@@ -1,0 +1,372 @@
+{
+    "RegularModel": {
+        "model": {
+            "Base": 99.0,
+            "HotelId": 10269684,
+            "rnorm": 0.0,
+            "Attribute": [
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "46",
+                    "Price": 100.0,
+                    "ID": 0,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "BedType",
+                            "AttributeValue": "3 Double Beds",
+                            "ID": 1
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "3 Double Beds",
+                    "Price": 100.0,
+                    "ID": 1,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "RoomSize",
+                            "AttributeValue": "46",
+                            "ID": 0
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "24",
+                    "Price": 20.0,
+                    "ID": 3,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "BedType",
+                            "AttributeValue": "1 King Bed",
+                            "ID": 4
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "1 King Bed",
+                    "Price": 20.0,
+                    "ID": 4,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "RoomSize",
+                            "AttributeValue": "24",
+                            "ID": 3
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "23",
+                    "Price": 0.0,
+                    "ID": 6,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "BedType",
+                            "AttributeValue": "1 Queen Bed",
+                            "ID": 7
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "1 Queen Bed",
+                    "Price": 0.0,
+                    "ID": 7,
+                    "Type": "Bundle",
+                    "Bundle": [
+                        {
+                            "AttributeName": "RoomSize",
+                            "AttributeValue": "23",
+                            "ID": 6
+                        }
+                    ]
+                },
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "27",
+                    "Price": 10.0,
+                    "ID": 9
+                },
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "2 Double Beds",
+                    "Price": 0.0,
+                    "ID": 10
+                },
+                {
+                    "AttributeName": "RoomView",
+                    "AttributeValue": "None",
+                    "Price": 0.0,
+                    "ID": 11
+                },
+                {
+                    "AttributeName": "Breakfast",
+                    "AttributeValue": "False",
+                    "Price": 0.0,
+                    "ID": 12
+                },
+                {
+                    "AttributeName": "FreeCancellation",
+                    "AttributeValue": "True",
+                    "Price": 0.0,
+                    "ID": 13
+                }
+            ]
+        },
+        "Room": [
+            {
+                "RoomBaseInfor": {
+                    "RoomTypeId": "200940957",
+                    "Price": 99.0,
+                    "RatePlanId": "204714816",
+                    "RoomName": "Room, 1 Queen Bed"
+                },
+                "Attribute": {
+                    "RoomSize": "23",
+                    "BedType": "1 Queen Bed",
+                    "RoomView": "None",
+                    "Breakfast": "False",
+                    "FreeCancellation": "True"
+                },
+                "AttributeIDList": [
+                    6,
+                    7,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            {
+                "RoomBaseInfor": {
+                    "RoomTypeId": "200940955",
+                    "Price": 109.0,
+                    "RatePlanId": "204714807",
+                    "RoomName": "Room, 2 Double Beds"
+                },
+                "Attribute": {
+                    "RoomSize": "27",
+                    "BedType": "2 Double Beds",
+                    "RoomView": "None",
+                    "Breakfast": "False",
+                    "FreeCancellation": "True"
+                },
+                "AttributeIDList": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            {
+                "RoomBaseInfor": {
+                    "RoomTypeId": "200940979",
+                    "Price": 109.0,
+                    "RatePlanId": "204714904",
+                    "RoomName": "Room, 2 Double Beds"
+                },
+                "Attribute": {
+                    "RoomSize": "27",
+                    "BedType": "2 Double Beds",
+                    "RoomView": "None",
+                    "Breakfast": "False",
+                    "FreeCancellation": "True"
+                },
+                "AttributeIDList": [
+                    9,
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            {
+                "RoomBaseInfor": {
+                    "RoomTypeId": "200974141",
+                    "Price": 119.0,
+                    "RatePlanId": "204754261",
+                    "RoomName": "Deluxe Room, 1 King Bed, Refrigerator & Microwave"
+                },
+                "Attribute": {
+                    "RoomSize": "24",
+                    "BedType": "1 King Bed",
+                    "RoomView": "None",
+                    "Breakfast": "False",
+                    "FreeCancellation": "True"
+                },
+                "AttributeIDList": [
+                    3,
+                    4,
+                    11,
+                    12,
+                    13
+                ]
+            },
+            {
+                "RoomBaseInfor": {
+                    "RoomTypeId": "200974136",
+                    "Price": 199.0,
+                    "RatePlanId": "204754252",
+                    "RoomName": "Family Suite, 2 Bedrooms"
+                },
+                "Attribute": {
+                    "RoomSize": "46",
+                    "BedType": "3 Double Beds",
+                    "RoomView": "None",
+                    "Breakfast": "False",
+                    "FreeCancellation": "True"
+                },
+                "AttributeIDList": [
+                    0,
+                    1,
+                    11,
+                    12,
+                    13
+                ]
+            }
+        ]
+    },
+    "GraphModel": {
+        "node": [
+            {
+                "ID": 204714807,
+                "Name": "Room, 2 Double Beds",
+                "Price": 109.0,
+                "Tax": 14.17,
+                "Fee": 0.0,
+                "RoomSize": 27,
+                "SmokingPolicy": "Non-Smoking",
+                "FreeCancellation": "yes",
+                "WheelchairAccessible": "No",
+                "BedType": "2 double beds",
+                "RoomView": "No",
+                "Breakfast": "No",
+                "RoomClass": "unknown"
+            },
+            {
+                "ID": 204714816,
+                "Name": "Room, 1 Queen Bed",
+                "Price": 99.0,
+                "Tax": 12.87,
+                "Fee": 0.0,
+                "RoomSize": 23,
+                "SmokingPolicy": "Non-Smoking",
+                "FreeCancellation": "yes",
+                "WheelchairAccessible": "No",
+                "BedType": "1 queen bed",
+                "RoomView": "No",
+                "Breakfast": "No",
+                "RoomClass": "unknown"
+            },
+            {
+                "ID": 204714904,
+                "Name": "Room, 2 Double Beds",
+                "Price": 109.0,
+                "Tax": 14.18,
+                "Fee": 0.0,
+                "RoomSize": 27,
+                "SmokingPolicy": "Smoking",
+                "FreeCancellation": "yes",
+                "WheelchairAccessible": "No",
+                "BedType": "2 double beds",
+                "RoomView": "No",
+                "Breakfast": "No",
+                "RoomClass": "unknown"
+            },
+            {
+                "ID": 204754252,
+                "Name": "Family Suite, 2 Bedrooms",
+                "Price": 199.0,
+                "Tax": 25.87,
+                "Fee": 0.0,
+                "RoomSize": 46,
+                "SmokingPolicy": "Non-Smoking",
+                "FreeCancellation": "yes",
+                "WheelchairAccessible": "No",
+                "BedType": "3 double beds",
+                "RoomView": "No",
+                "Breakfast": "No",
+                "RoomClass": "family"
+            },
+            {
+                "ID": 204754261,
+                "Name": "Deluxe Room, 1 King Bed, Refrigerator & Microwave",
+                "Price": 119.0,
+                "Tax": 15.48,
+                "Fee": 0.0,
+                "RoomSize": 24,
+                "SmokingPolicy": "Non-Smoking",
+                "FreeCancellation": "yes",
+                "WheelchairAccessible": "No",
+                "BedType": "1 king bed",
+                "RoomView": "No",
+                "Breakfast": "No",
+                "RoomClass": "deluxe"
+            }
+        ],
+        "edge": [
+            {
+                "Parent": 204714816,
+                "Child": 204714807,
+                "Price": 10,
+                "offer": "+4 sq meters, BedType[2 double beds],+$10"
+            },
+            {
+                "Parent": 204714816,
+                "Child": 204714904,
+                "Price": 10,
+                "offer": "+4 sq meters, Smoking, BedType[2 double beds],+$10"
+            },
+            {
+                "Parent": 204714816,
+                "Child": 204754261,
+                "Price": 20,
+                "offer": "+1 sq meters, BedType[1 king bed],RoomClass[deluxe], +$20"
+            },
+            {
+                "Parent": 204714816,
+                "Child": 204754252,
+                "Price": 100,
+                "offer": "+23 sq meters, BedType[3 double beds],RoomClass[family], +$100"
+            },
+            {
+                "Parent": 204714807,
+                "Child": 204714904,
+                "Price": 0,
+                "offer": "Smoking, +$0"
+            },
+            {
+                "Parent": 204714807,
+                "Child": 204754261,
+                "Price": 10,
+                "offer": "-3 sq meters, BedType[1 king bed],RoomClass[deluxe], +$10"
+            },
+            {
+                "Parent": 204714807,
+                "Child": 204754252,
+                "Price": 90,
+                "offer": "+19 sq meters, BedType[3 double beds],RoomClass[family], +$90"
+            },
+            {
+                "Parent": 204714904,
+                "Child": 204754261,
+                "Price": 10,
+                "offer": "-3 sq meters, Non-Smoking, BedType[1 king bed],RoomClass[deluxe], +$10"
+            },
+            {
+                "Parent": 204754261,
+                "Child": 204754252,
+                "Price": 80,
+                "offer": "+22 sq meters, BedType[3 double beds],RoomClass[family], +$80"
+            }
+        ]
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "code": [
+        1000
+    ],
+    "data": [
+        {
+            "AttributeName": "RoomSize",
+            "AttributeValue": "46",
+            "Price": 100,
+            "ID": 0,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "3 Double Beds",
+                    "ID": 1
+                }
+            ],
+            "tag": "1"
+        },
+        {
+            "AttributeName": "BedType",
+            "AttributeValue": "3 Double Beds",
+            "Price": 100,
+            "ID": 1,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "46",
+                    "ID": 0
+                }
+            ],
+            "tag": "4"
+        },
+        {
+            "AttributeName": "RoomSize",
+            "AttributeValue": "24",
+            "Price": 20,
+            "ID": 3,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "1 King Bed",
+                    "ID": 4
+                }
+            ],
+            "tag": "3"
+        },
+        {
+            "AttributeName": "BedType",
+            "AttributeValue": "1 King Bed",
+            "Price": 20,
+            "ID": 4,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "24",
+                    "ID": 3
+                }
+            ],
+            "tag": "3"
+        },
+        {
+            "AttributeName": "RoomSize",
+            "AttributeValue": "23",
+            "Price": 0,
+            "ID": 6,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "BedType",
+                    "AttributeValue": "1 Queen Bed",
+                    "ID": 7
+                }
+            ],
+            "tag": "3"
+        },
+        {
+            "AttributeName": "BedType",
+            "AttributeValue": "1 Queen Bed",
+            "Price": 0,
+            "ID": 7,
+            "Type": "Bundle",
+            "Bundle": [
+                {
+                    "AttributeName": "RoomSize",
+                    "AttributeValue": "23",
+                    "ID": 6
+                }
+            ],
+            "tag": "3"
+        },
+        {
+            "AttributeName": "RoomSize",
+            "AttributeValue": "27",
+            "Price": 10,
+            "ID": 9,
+            "tag": "3"
+        },
+        {
+            "AttributeName": "BedType",
+            "AttributeValue": "2 Double Beds",
+            "Price": 0,
+            "ID": 10,
+            "tag": "3"
+        },
+        {
+            "AttributeName": "RoomView",
+            "AttributeValue": "None",
+            "Price": 0,
+            "ID": 11,
+            "tag": "4"
+        },
+        {
+            "AttributeName": "Breakfast",
+            "AttributeValue": "False",
+            "Price": 0,
+            "ID": 12,
+            "tag": "4"
+        },
+        {
+            "AttributeName": "FreeCancellation",
+            "AttributeValue": "True",
+            "Price": 0,
+            "ID": 13,
+            "tag": "4"
+        }
+    ],
+    "details": {
+        "Attribute_select": [
+            0
+        ],
+        "Attribute_optinal": [],
+        "Attribute_no": [
+            3,
+            4,
+            6,
+            7,
+            9,
+            10
+        ],
+        "AttributeBundle": [
+            1,
+            11,
+            12,
+            13
+        ],
+        "IsExistFinal": true,
+        "FinalRoom": {
+            "RoomBaseInfor": {
+                "RoomTypeId": "200974136",
+                "Price": 199,
+                "RatePlanId": "204754252",
+                "RoomName": "Family Suite, 2 Bedrooms"
+            },
+            "Attribute": {
+                "RoomSize": "46",
+                "BedType": "3 Double Beds",
+                "RoomView": "None",
+                "Breakfast": "False",
+                "FreeCancellation": "True"
+            },
+            "AttributeIDList": [
+                0,
+                1,
+                11,
+                12,
+                13
+            ]
+        }
+    },
+    "msg": "success"
+}

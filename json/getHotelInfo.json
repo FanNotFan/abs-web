@@ -1,0 +1,267 @@
+{
+    "code": [
+        1000
+    ],
+    "data": {
+        "min_price": 249.0,
+        "max_price": 599.0,
+        "Checkin": "2020-02-01",
+        "Checkout": "2020-02-02",
+        "Picture": [
+            {
+                "name": "Featured Image",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/93df82b7.jpg"
+            },
+            {
+                "name": "Interior Entrance",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/1817d3aa.jpg"
+            },
+            {
+                "name": "Concierge Desk",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/f94aa61a.jpg"
+            },
+            {
+                "name": "Check-in/Check-out Kiosk",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/95a7b3f1.jpg"
+            },
+            {
+                "name": "Check-in/Check-out Kiosk",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/618ae5a5.jpg"
+            },
+            {
+                "name": "Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/4c044b7e.jpg"
+            },
+            {
+                "name": "Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/1688194e.jpg"
+            },
+            {
+                "name": "Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/d7f103f4.jpg"
+            },
+            {
+                "name": "Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/744b4f06.jpg"
+            },
+            {
+                "name": "Private Kitchen",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/0a98d507.jpg"
+            },
+            {
+                "name": "Private Kitchen",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/0c40e88a.jpg"
+            },
+            {
+                "name": "Living Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/c066d3df.jpg"
+            },
+            {
+                "name": "Living Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/a5ecf3c1.jpg"
+            },
+            {
+                "name": "Living Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/e368a640.jpg"
+            },
+            {
+                "name": "Living Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/62339596.jpg"
+            },
+            {
+                "name": "View from Room",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/9703fc1a.jpg"
+            },
+            {
+                "name": "Bathroom",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/1e3be651.jpg"
+            },
+            {
+                "name": "Jetted Tub",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/41f31272.jpg"
+            },
+            {
+                "name": "Outdoor Pool",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/1eef312d.jpg"
+            },
+            {
+                "name": "Outdoor Pool",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/85451578.jpg"
+            },
+            {
+                "name": "Outdoor Pool",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/7e73d2e6.jpg"
+            },
+            {
+                "name": "Outdoor Pool",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/e00adf19.jpg"
+            },
+            {
+                "name": "Gym",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/a054c567.jpg"
+            },
+            {
+                "name": "Gym",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/a9caba93.jpg"
+            },
+            {
+                "name": "Gym",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/b9fbca3b.jpg"
+            },
+            {
+                "name": "Gym",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/9c920037.jpg"
+            },
+            {
+                "name": "Hair Salon",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/0a39d597.jpg"
+            },
+            {
+                "name": "Hair Salon",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/b948c5bf.jpg"
+            },
+            {
+                "name": "Spa Reception",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/3c426f70.jpg"
+            },
+            {
+                "name": "Spa Treatment",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/0d0d799d.jpg"
+            },
+            {
+                "name": "Spa Treatment",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/d8d5246c.jpg"
+            },
+            {
+                "name": "Restaurant",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/7ffc0e64.jpg"
+            },
+            {
+                "name": "Restaurant",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/b678764e.jpg"
+            },
+            {
+                "name": "Restaurant",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/9fc0362a.jpg"
+            },
+            {
+                "name": "Restaurant",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/50f19e2f.jpg"
+            },
+            {
+                "name": "Cafe",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/ccedeaa7.jpg"
+            },
+            {
+                "name": "Cafe",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/29c8aa7a.jpg"
+            },
+            {
+                "name": "Cafe",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/4b966695.jpg"
+            },
+            {
+                "name": "Cafe",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/bfa76954.jpg"
+            },
+            {
+                "name": "Food and Drink",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/7c494705.jpg"
+            },
+            {
+                "name": "Breakfast Meal",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/14c1e7a0.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/0c154b12.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/96581884.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/10ee275b.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/86eb0d28.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/76ccf4f7.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/3d2865cc.jpg"
+            },
+            {
+                "name": "Executive Lounge",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/65cdc4a7.jpg"
+            },
+            {
+                "name": "Front of Property - Evening/Night",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/1e979f8f.jpg"
+            },
+            {
+                "name": "View from Property",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/e93a12b6.jpg"
+            },
+            {
+                "name": "View from Property",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/71e05c6d.jpg"
+            },
+            {
+                "name": "City View",
+                "url": "https://images.trvl-media.com/hotels/1000000/10000/7500/7414/b73a88bc.jpg"
+            }
+        ],
+        "Amenity": [
+            "Free use of nearby fitness center",
+            "Bar/lounge",
+            "Elevator",
+            "Fitness facilities",
+            "Full-service spa",
+            "Indoor pool",
+            "24-hour front desk",
+            "Poolside bar",
+            "Business center",
+            "Conference space",
+            "Spa treatment room(s)",
+            "Porter/bellhop",
+            "Tours/ticket assistance",
+            "Meeting rooms",
+            "Restaurant",
+            "Pet maximum weight in kg is 23",
+            "Free self parking",
+            "Pet maximum weight in lb is 50",
+            "Dry cleaning/laundry service",
+            "Free WiFi",
+            "Free valet parking",
+            "Sauna",
+            "Outdoor pool",
+            "Smoke-free property",
+            "Safe-deposit box at front desk",
+            "Spa services on site",
+            "Terrace",
+            "Luggage storage",
+            "ATM/banking",
+            "Breakfast available (surcharge)",
+            "Concierge services",
+            "Banquet hall",
+            "Laundry facilities",
+            "Pets allowed",
+            "Spa tub",
+            "Total number of rooms - 255",
+            "Television in common areas",
+            "Number of floors - 16",
+            "Wedding services",
+            "Only dogs are allowed",
+            "Maximum number of pets per room 2",
+            "Multilingual staff",
+            "Free newspapers in lobby"
+        ]
+    },
+    "msg": "success"
+}
